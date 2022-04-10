@@ -1,3 +1,3 @@
 # Zustand Test
 
-This project made for test Zustand
+- This project made for test Zustand
